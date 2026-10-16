@@ -68,7 +68,7 @@ python --version
 ### Clonage du Projet:
 Clonez le dépôt Git avec la commande suivante :  
 ```
-git clone https://github.com/farnounef/DataLake
+git clone https://github.com/farnounef/DataLake.git
 ```
 ### Démarrage des Conteneurs:
 Accédez au dossier api :  
